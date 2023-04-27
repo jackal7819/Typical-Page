@@ -2,7 +2,7 @@
 
 ## React, css
 
-### Demo - https://username-7zet.onrender.com
+### Demo - https://typicalpage.onrender.com
 
 ## Available Scripts
 
