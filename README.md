@@ -1,8 +1,10 @@
 # A Typical page
 
-## React, css
+## React, CSS, Hooks - useState, useEffect, useContext, useRef, useReducer, useImperativeHandle
 
 ### Demo - https://typicalpage.onrender.com
+
+------
 
 ## Available Scripts
 
